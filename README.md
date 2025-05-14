@@ -24,7 +24,7 @@ This tool is an interactive Python-based network load tester. It allows you to s
 
 ## 🚀 Getting Started
 
-### 1. Clone the Repository
+### Usage:
 
 ```bash
 pip install requests colorama ssl 
