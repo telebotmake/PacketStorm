@@ -24,6 +24,7 @@ This tool is an interactive Python-based network load tester. It allows you to s
 ### 1. Clone the Repository
 
 ```bash
+pip install requests colorama ssl 
 git clone https://github.com/telebotmake/PacketStorm.git
 cd PacketStorm
 python ddos.py
