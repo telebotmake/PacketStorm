@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/banner.png" alt="Network Load Testing Tool Banner" width="700"/>
+  <img src="assets/banner.jpg" alt="Network Load Testing Tool Banner" width="700"/>
 </p>
 # 🌐 PacketStorm v2.0
 
