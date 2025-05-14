@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="assets/banner.png" alt="Network Load Testing Tool Banner" width="700"/>
+</p>
 # 🌐 PacketStorm v2.0
 
 > ⚠️ **This tool is intended strictly for legal and ethical testing purposes. Unauthorized usage may violate laws. Use responsibly and at your own risk.**
